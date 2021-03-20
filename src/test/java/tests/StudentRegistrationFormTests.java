@@ -70,7 +70,6 @@ public class StudentRegistrationFormTests {
         $("#stateCity-wrapper").$(byText(state)).click();
         $("#city").click();
         $("#stateCity-wrapper").$(byText(city)).click();
-        $("#submit").click();
 
         $("#submit").click();
 
